@@ -9,3 +9,5 @@ Django - https://tutorial.djangogirls.org/en/
 Figma - https://www.figma.com/
 
 HTML + CSS (stepik) - https://stepik.org/course/38218/promo
+
+Удобная канбан доска для отслеживания задач - https://app.asana.com/
